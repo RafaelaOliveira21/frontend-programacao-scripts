@@ -1,0 +1,13 @@
+.nav__brand {
+  display: flex;
+  justify-content: left;
+
+  .hamburguerIcon {
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    width: 68px;
+  }
+}

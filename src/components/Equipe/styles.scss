@@ -1,0 +1,37 @@
+.cadastro-equipe {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 40px;
+  height: 410px;
+  margin-bottom: 40px;
+}
+
+.listagem-equipe {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 40px;
+  height: 100%;
+  margin-bottom: 40px;
+}
+
+.button {
+  display: flex;
+  margin-top: 40px;
+  justify-content: flex-end;
+}
+
+.button-consultar {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  height: 100%;
+}
